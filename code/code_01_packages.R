@@ -1,0 +1,7 @@
+install.packages("expss")
+install.packages("tidyr")
+install.packages("forcats")
+install.packages("here")
+install.packages("haven")
+install.packages("readxl")
+install.packages("car")
